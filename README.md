@@ -1,7 +1,7 @@
 # Cocomo II
 
 
-This is COCOMO II software cost estimation PHP realization.
+COCOMO II software cost estimation PHP library.
 
 
 Usage example:
